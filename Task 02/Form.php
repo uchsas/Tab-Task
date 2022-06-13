@@ -10,7 +10,7 @@ if(isset($_POST["btnClick"]))
 	
 }
 {
-	$isPost=true;
+	
 	if($_POST["pass"]!="")
 		$password=$_POST["pass"];
 	
